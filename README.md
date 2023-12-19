@@ -1,2 +1,2 @@
-"# krommler" 
-# home assistant integration, local lan
+# krommler
+# home assistant integration, local LAN econet
