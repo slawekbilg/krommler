@@ -2,7 +2,7 @@
 # home assistant integration, local LAN econet
 
 # EcoNET
-  - platform: rest
+#  - platform: rest
     scan_interval: 60
     resource: !secret econet_host_lan_regParams
     method: GET
